@@ -4,7 +4,9 @@
 
 📽️ **Watch the Demo Video Below** 👇  
 
-[![Watch the Demo](https://www.youtube.com/shorts/Njbw6GFoVEI)  
+
+[![Watch the Demo](https://img.youtube.com/vi/Njbw6GFoVEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Njbw6GFoVEI)
+
 
 ---
 
